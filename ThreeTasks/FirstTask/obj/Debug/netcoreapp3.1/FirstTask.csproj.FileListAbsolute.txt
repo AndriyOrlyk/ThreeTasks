@@ -1,0 +1,13 @@
+D:\Studies\Myself\Programing\GitHub\ThreeTasks\ThreeTasks\FirstTask\bin\Debug\netcoreapp3.1\FirstTask.exe
+D:\Studies\Myself\Programing\GitHub\ThreeTasks\ThreeTasks\FirstTask\bin\Debug\netcoreapp3.1\FirstTask.deps.json
+D:\Studies\Myself\Programing\GitHub\ThreeTasks\ThreeTasks\FirstTask\bin\Debug\netcoreapp3.1\FirstTask.runtimeconfig.json
+D:\Studies\Myself\Programing\GitHub\ThreeTasks\ThreeTasks\FirstTask\bin\Debug\netcoreapp3.1\FirstTask.runtimeconfig.dev.json
+D:\Studies\Myself\Programing\GitHub\ThreeTasks\ThreeTasks\FirstTask\bin\Debug\netcoreapp3.1\FirstTask.dll
+D:\Studies\Myself\Programing\GitHub\ThreeTasks\ThreeTasks\FirstTask\bin\Debug\netcoreapp3.1\FirstTask.pdb
+D:\Studies\Myself\Programing\GitHub\ThreeTasks\ThreeTasks\FirstTask\obj\Debug\netcoreapp3.1\FirstTask.csprojAssemblyReference.cache
+D:\Studies\Myself\Programing\GitHub\ThreeTasks\ThreeTasks\FirstTask\obj\Debug\netcoreapp3.1\FirstTask.AssemblyInfoInputs.cache
+D:\Studies\Myself\Programing\GitHub\ThreeTasks\ThreeTasks\FirstTask\obj\Debug\netcoreapp3.1\FirstTask.AssemblyInfo.cs
+D:\Studies\Myself\Programing\GitHub\ThreeTasks\ThreeTasks\FirstTask\obj\Debug\netcoreapp3.1\FirstTask.csproj.CoreCompileInputs.cache
+D:\Studies\Myself\Programing\GitHub\ThreeTasks\ThreeTasks\FirstTask\obj\Debug\netcoreapp3.1\FirstTask.dll
+D:\Studies\Myself\Programing\GitHub\ThreeTasks\ThreeTasks\FirstTask\obj\Debug\netcoreapp3.1\FirstTask.pdb
+D:\Studies\Myself\Programing\GitHub\ThreeTasks\ThreeTasks\FirstTask\obj\Debug\netcoreapp3.1\FirstTask.genruntimeconfig.cache

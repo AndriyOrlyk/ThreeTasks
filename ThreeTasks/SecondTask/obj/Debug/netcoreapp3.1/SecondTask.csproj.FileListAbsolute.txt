@@ -1,0 +1,13 @@
+D:\Studies\Myself\Programing\GitHub\ThreeTasks\ThreeTasks\SecondTask\bin\Debug\netcoreapp3.1\SecondTask.exe
+D:\Studies\Myself\Programing\GitHub\ThreeTasks\ThreeTasks\SecondTask\bin\Debug\netcoreapp3.1\SecondTask.deps.json
+D:\Studies\Myself\Programing\GitHub\ThreeTasks\ThreeTasks\SecondTask\bin\Debug\netcoreapp3.1\SecondTask.runtimeconfig.json
+D:\Studies\Myself\Programing\GitHub\ThreeTasks\ThreeTasks\SecondTask\bin\Debug\netcoreapp3.1\SecondTask.runtimeconfig.dev.json
+D:\Studies\Myself\Programing\GitHub\ThreeTasks\ThreeTasks\SecondTask\bin\Debug\netcoreapp3.1\SecondTask.dll
+D:\Studies\Myself\Programing\GitHub\ThreeTasks\ThreeTasks\SecondTask\bin\Debug\netcoreapp3.1\SecondTask.pdb
+D:\Studies\Myself\Programing\GitHub\ThreeTasks\ThreeTasks\SecondTask\obj\Debug\netcoreapp3.1\SecondTask.csprojAssemblyReference.cache
+D:\Studies\Myself\Programing\GitHub\ThreeTasks\ThreeTasks\SecondTask\obj\Debug\netcoreapp3.1\SecondTask.AssemblyInfoInputs.cache
+D:\Studies\Myself\Programing\GitHub\ThreeTasks\ThreeTasks\SecondTask\obj\Debug\netcoreapp3.1\SecondTask.AssemblyInfo.cs
+D:\Studies\Myself\Programing\GitHub\ThreeTasks\ThreeTasks\SecondTask\obj\Debug\netcoreapp3.1\SecondTask.csproj.CoreCompileInputs.cache
+D:\Studies\Myself\Programing\GitHub\ThreeTasks\ThreeTasks\SecondTask\obj\Debug\netcoreapp3.1\SecondTask.dll
+D:\Studies\Myself\Programing\GitHub\ThreeTasks\ThreeTasks\SecondTask\obj\Debug\netcoreapp3.1\SecondTask.pdb
+D:\Studies\Myself\Programing\GitHub\ThreeTasks\ThreeTasks\SecondTask\obj\Debug\netcoreapp3.1\SecondTask.genruntimeconfig.cache
