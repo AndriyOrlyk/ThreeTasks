@@ -36,10 +36,5 @@ namespace SecondTask
             if (!(flag > 0))
                 Console.Write("-1");
         }
-
-        public override string ToString()
-        {
-            return $"Array {arr}";
-        }
     }
 }
